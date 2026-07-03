@@ -1,4 +1,4 @@
-@icon("res://addons/art/trigger2d.svg")
+@icon("res://addons/trigger/art/trigger2d.svg")
 class_name Trigger2D extends Area2D
 
 ## Target node containing the method [code]method_name[/code].

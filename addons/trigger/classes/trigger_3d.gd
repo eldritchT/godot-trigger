@@ -1,4 +1,4 @@
-@icon("res://addons/art/trigger3d.svg")
+@icon("res://addons/trigger/art/trigger3d.svg")
 class_name Trigger3D extends Area3D
 
 ## Target node containing the method [code]method_name[/code].
